@@ -1,0 +1,51 @@
+,name,location.formattedAddress,location.distance,location.lat,location.lng,id
+0,Dwellington Apartment,"['Bangalore', 'Karnātaka', 'India']",2367,13.039491797892286,77.55558987238176,56133261498e95c619c830f8
+1,Apartment Banaswadi main road cross hight street RD.,"['Banaswadi Main Rd (hight street)', 'Bangalore', 'Karnātaka', 'India']",6732,13.000170430342969,77.6245454591405,4db7040e0437fa536a641766
+2,Lavina Courts Apartment,"['7th cross Road', 'Bangalore', 'Karnātaka', 'India']",1693,13.010092,77.577198,5881e078ca10705c93250e49
+3,Divya MSR Gateway Apartment,"['MSR Road (Gokula Extension, Mathikere)', 'Bangalore 560054', 'Karnātaka', 'India']",2307,13.03947021158443,77.55673171336488,54c7e234498e3fefe98bb233
+4,Surya Nest Apartment,"['#57 Surya Nest Apartment (15th Cross Malleshwarm)', 'Bangalore 560003', 'Karnātaka', 'India']",1785,13.00517729269146,77.5631425495395,56925107498ee19055b48124
+5,The Chalet Corporate Apartment,"['Bangalore', 'Karnātaka', 'India']",1914,13.007784,77.554855,588443bcca10705c9390dcfc
+6,"J Block, Shriram Sadhana Apartment","['Bangalore', 'Karnātaka', 'India']",2479,13.040211,77.554801,57f7fca2498eacc89b680da7
+7,"1/747, Rented Apartment","['1/747, 1st Cross, Beside Karvy Building (Krishna Temple Road)', 'Bangalore 560038', 'Karnātaka', 'India']",9793,12.979005,77.64562,573a06fc498ed9e519ca0969
+8,Dwellington Apartment Rooftop,['India'],2367,13.039522,77.555643,5687fbb2498e9a707e6b2313
+9,"H Block,Sadhana Apartment","['Bangalore', 'Karnātaka', 'India']",2480,13.04005,77.554501,572255a2498ea8de6ca3f867
+10,Dwellington Apartment Swimming Pool,['India'],2376,13.039570229610394,77.55555230539213,567a97c0498ee1d61459008b
+11,The Kaiser Serviced Apartment Hotel,"['Bangalore 560024', 'Karnātaka', 'India']",3032,13.029926070972964,77.59263667696135,50fb74cae4b04f8554e9258a
+12,Embassy Habitat Apartment,"['Palace Road', 'Bengalur', 'Karnātaka', 'India']",3675,12.994719451019165,77.58685133371019,4d20685af7a9a143a1ae2c9f
+13,MCC Apartment,"['109 S2 MCC APTS NANDINI LAYOUT (NANDINI LAYOUT)', 'Bangalore 560096', 'Karnātaka', 'India']",3125,13.014054717865344,77.53829598426819,5f8de0698e46913f2592ab12
+14,Creative Classic Apartment,"['SS Ashram Road (Hebbal)', 'Bangalore', 'Karnātaka', 'India']",3546,13.034047492665726,77.59603852025482,4e63a18f45ddda352a14536d
+15,Navami Apartment,"['Basaveshwaranagr Lakshmi nagar (2nd Cross)', 'Bangalore 560079', 'karanataka', 'India']",4328,12.997086567385685,77.53471272929279,55ad38c3498e676a091f7d6c
+16,Krishna Legacy Apartment,['India'],3348,13.019332,77.59707,6095244f478c9011327c4e41
+17,Apartment #80,"['3rd Main Road (Bharathi Layout, S G Palya)', 'Bangalore 560028', 'Karnātaka', 'India']",11261,12.92858981114727,77.60864496231079,50fff776e4b0637867f71f58
+18,krishna Greens apartment,['India'],4493,13.061164306991614,77.56953452899677,4fb920b7e4b04abc0c3ab9ef
+19,Shree Prakriti Apartment,['India'],4924,13.06480088033049,77.5720979360512,552e828d498efbc5456866e9
+20,Sri Sai Apartment,"['Sahakara Nagar', 'Bangalore 560092', 'Karnātaka', 'India']",4969,13.06330037472305,77.58067488670349,4c31a9cca0ced13a26f2136e
+21,HVS Apartment,"['Queens Road, Vasanth Nagar (Edward Road)', 'Bangalore 560051', 'Karnātaka', 'India']",5204,12.985201,77.597189,611dd9a48856f445c2f602fa
+22,104 TARA APARTMENT,"['132 infatry road Shivaji nagar', 'Banglour', 'India']",5731,12.981603,77.600349,5878daf8409f5656d2e6fca6
+23,Manima Apartment,"['No-27, 12th Cross, Maruthi Layout, Dasarahalli, HAFARM Post, (Kempapura, HEBBAL)', 'Byatarayanapura CMC and OG Part 560024', 'Karnātaka', 'India']",6063,13.059434,77.60579,5c2375e789e490002c94be5c
+24,Garden Apartment,"['vittal mallya rd (Oppoitte UB city)', 'Bangalore', 'Karnātaka', 'India']",6547,12.970312226114215,77.59699018666659,4be2fa09b02ec9b6d3334ec0
+25,Shivaprakruthi Apartment,"['Talacauvery layout', 'Bangalore', 'Karnātaka', 'India']",6257,13.06925,77.595719,4dec30851f6e3ddebdfa2ef2
+26,Arambha Apartment,['India'],7778,12.961884,77.604592,56115ded498e190f1dec6536
+27,Taura Comfort Service Apartment,['India'],6602,12.981208801269531,77.61144256591797,51491c0ae4b07a00bf6a387e
+28,P J Vinayaka Apartment,"['Thambuchetty Street', 'Bangalore 560005', 'Karnātaka', 'India']",6620,12.997299,77.62226,59bd57d525fb7b59a832cca6
+29,JP Gold Apartment,['India'],7064,13.018242,77.631315,517115b1e4b02d982ec920d9
+30,Boncord Apartment,['India'],7426,12.977439,77.618157,56d01178498e02f9010f19f2
+31,Wilson Vintage Apartment,['India'],8860,12.949301832045599,77.60185830841759,5252aa0f11d2c2bf5d1fadf6
+32,ARGE Helios Apartment,"['Hennur Road', 'Bangalore', 'Karnātaka', 'India']",10388,13.06551306204412,77.65039372266028,54b11c57498e8053a86fabff
+33,vm meridian apartment,['India'],8041,13.046933061340559,77.63541464862233,52da4b4111d28904dcf072b7
+34,Roseline Apartment,"['Bangalore 560043', 'Karnātaka', 'India']",8107,13.022482,77.640974,5a90e4be47f8761262bf4576
+35,silver manor apartment,"['Langford Town (Hosur Rd)', 'Bangalore', 'Karnātaka', 'India']",8246,12.957769,77.605968,52a40f7c498e67c53e631395
+36,Brigade park view apartment b.p wadia road,['India'],8551,12.944708561795219,77.57607166194363,4f5c75fce4b082b23e0686ab
+37,Sorina Apartment 30/2 Adugodi Main Road,"['32/1, 7th Block Koramangala (1st Cross)', 'Bangalore 560095', 'Karnātaka', 'India']",10514,12.937309617956501,77.61131080343128,4e9da67a4690bdef103affd4
+38,Brigade Classic Apartment,['India'],9150,12.939475,77.577575,52e7d91f498e465333a9af1c
+39,DS Max Keerthi Apartment,['India'],9065,13.028165,77.6495,57fcaccd498e6293466c6ab2
+40,Navya Delight Apartment,"['27th Main 3rd Cross, Ashwini Layout (Ejipura)', 'Bangalore 560047', 'Karnātaka', 'India']",11256,12.940741496550679,77.62946391048759,559411be498e5d0d84a503fa
+41,Royal Heritage Apartment,"['Old Madras Road', 'Bangalore 560016', 'Karnātaka', 'India']",11443,12.996570552100557,77.6687464803608,4e270961628436bf4d6c6b1a
+42,Bangalore Corporate Apartment,"['Bangalore', 'Karnātaka', 'India']",10209,12.966937,77.642331,4cf698ac9d11b1f70477c1ed
+43,Ashwini Apartment,"['S. G. Palya, C. V. Raman Nagar (5th Main, 4th Cross)', 'Bangalore 560093', 'Karnātaka', 'India']",10701,12.982382774353027,77.65662384033203,55449303498e777ecb7c0720
+44,Mahaveer Fortune Apartment,"['mahaveer fortune apartment (hosahalli gollarapalya, off magadi main road)', 'Bangalore 560091', 'Karnātaka', 'India']",9899,12.997387,77.478226,6172b73f4766b76f2bda4fbf
+45,Damden Yerra Apartments,"['Kormangala', 'Bangalore', 'Karnātaka', 'India']",11113,12.935918941874489,77.61995804389971,4f7129bbe4b068eb3da0e1e7
+46,Doctor's apartment,"[""Doctor's Apartment (Kasturi  Nagar)"", 'Bangalore', 'Karnātaka', 'India']",9993,13.006282785187839,77.65714987231426,518f3acb498e89cb807e6d44
+47,Amara canopy apartment,"['29th Main (NS Palaya, BTM Layout)', 'Bangalore', 'Karnātaka', 'India']",13556,12.9052018382873,77.60514087063117,4fef4598e4b0203e0a6660a5
+48,Royal Heritage Apartment Gym,['India'],10503,13.009320541053274,77.66235093523174,50c6878ce4b0bd43eab5fd4f
+49,Sobha Opal Apartment,"['Jayanagar', 'Bangalore', 'Karnātaka', 'India']",11506,12.919690914142967,77.58763281653125,4dac31d80cb6a89c62919dc2
